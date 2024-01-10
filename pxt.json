@@ -1,5 +1,5 @@
 {
-    "name": "github conncection",
+    "name": "Mock PT Carlos S",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -19,5 +19,6 @@
     },
     "supportedTargets": [
         "arcade"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
